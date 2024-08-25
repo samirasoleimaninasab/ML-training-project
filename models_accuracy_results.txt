@@ -1,0 +1,44 @@
+name of model is :
+svm
+with features of nothing
+and this is model results
+accuracy score is :
+0.8870967741935484
+recall score is :
+0.9803921568627451
+precision score is :
+0.8928571428571429
+--------------------------------------------------------------------------------
+name of model is :
+svm
+with features of nothing
+and this is model results
+accuracy score is :
+0.8870967741935484
+recall score is :
+0.9803921568627451
+precision score is :
+0.8928571428571429
+--------------------------------------------------------------------------------
+name of model is :
+svm
+with features of nothing
+and this is model results
+accuracy score is :
+0.8870967741935484
+recall score is :
+0.9803921568627451
+precision score is :
+0.8928571428571429
+--------------------------------------------------------------------------------
+name of model is :
+svm
+with features of nothing iuvtuf uuftfty  ctrctrfuy   rydyutd r dtrdtrd tr trdtrdtr xt extrtrd tr rdtrtyc yu ydcydf yvugif trftyf  yuty dcty yt tuc  c 
+and this is model results
+accuracy score is :
+0.8870967741935484
+recall score is :
+0.9803921568627451
+precision score is :
+0.8928571428571429
+-------------------------------------------------------------------------------
